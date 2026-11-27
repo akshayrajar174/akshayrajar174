@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="Futuristic Purple Developer Portfolio Banner" src="https://github.com/user-attachments/assets/970a942b-8523-4b22-be33-55f731468a65" />
+<img width="2172" height="724" alt="Futuristic Purple Developer Portfolio Banner" src="/banner" />
 
 
 <div align="center">
