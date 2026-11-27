@@ -1,9 +1,10 @@
 
 <img width="2172" height="724" alt="Futuristic Purple Developer Portfolio Banner" src="https://github.com/user-attachments/assets/9e47dfb3-92e2-495d-9e0e-ea6db7f9c64e" />
+
 <!--
 Maintainer notes (not shown on GitHub):
-- Product names under "Professional Engineering Experience" are employer products. Confirm your employer allows them to be named publicly.
-- Shaktiman and the Asset Management System are not listed yet because their purpose and your role are not confirmed. See MISSING_INFORMATION.md.
+- Product names and screenshots under "Professional Engineering Experience" belong to your employer. Confirm approval before committing them. Identifiers in the screenshots are blurred.
+- The Asset Management System is not listed because it is not confirmed as a separate product. See MISSING_INFORMATION.md.
 -->
 
 <div align="center">
@@ -41,7 +42,94 @@ My day-to-day focus is frontend engineering with React.js and TypeScript. My per
 
 I build and maintain web interfaces for enterprise IoT and telematics products: reusable frontend components, REST API integration, monitoring dashboards and data-driven views, working with cross-functional engineering teams.
 
-> **Confidentiality:** These are employer products, not open-source projects. No proprietary code, screenshots, endpoints, customer data or internal documentation are published here. The rows below describe domains and engineering areas only.
+> **Confidentiality:** These are employer products, not open-source projects. No proprietary code, endpoints, customer data or internal documentation are published here. Screenshots are interface views with identifying details blurred. The cards describe the interface and my engineering areas only.
+
+<table>
+<tr><td>
+
+### MiniMetro – Asset Tracking and Vehicle Management
+
+<img src="assets/projects/minimetro/dashboard.png" alt="MiniMetro overview dashboard showing vehicle status counts, search filters and online and activity status charts" width="100%" />
+<sub>MiniMetro overview: vehicle status counts, hierarchy filters and connectivity charts.</sub>
+
+**What the interface covers**
+<ul>
+<li>Overview, Geo Fencing, Devices, Vehicles, Financiers, Distributors, Dealers, Customers, Reports, OTA and Alerts modules</li>
+<li>Vehicle status counts: running, halted, idle, disconnected, no data and charging</li>
+<li>Filters by country, state, distributor, dealer, status and customer, and search by IMEI or vehicle</li>
+<li>Live map section and charts for online or offline status and vehicle activity</li>
+</ul>
+
+**My engineering areas:** Web interface development and REST API integration
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### Compass Revamp / RevMap – Fleet Management and GPS Tracking
+
+<img src="assets/projects/compass-revamp/fleet-dashboard.png" alt="Compass fleet overview with vehicle status counts, a searchable vehicle list and a map" width="100%" />
+<sub>Compass overview: fleet status counts, vehicle list and map view. Vehicle identifiers are blurred.</sub>
+
+**What the interface covers**
+<ul>
+<li>Overview with counts of total, running, halted, idle, disconnected and no-data vehicles</li>
+<li>Searchable vehicle list with live status</li>
+<li>Map view built with Leaflet and OpenStreetMap, as shown in the map attribution</li>
+<li>Sections for Videos, Vehicles, Geo Fencing, Settings and Alerts</li>
+</ul>
+
+**My engineering areas:** Mapping and geospatial interfaces, vehicle tracking and route visualization, fleet-related monitoring, interactive data-driven dashboards
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### Cold Chain and Freezer Monitoring
+
+<img src="assets/projects/cold-chain/monitoring-dashboard.png" alt="Freezer monitoring dashboard with connection status counts and a map of freezer locations" width="100%" />
+<sub>Freezer monitoring overview: connection status counts and map. Customer name and freezer location are blurred.</sub>
+
+**What the interface covers**
+<ul>
+<li>Counts of total, connected, disconnected, data-connected and data-disconnected freezers</li>
+<li>Map with Map and Satellite views</li>
+<li>Search by freezer, location or center, a center filter, and online or offline filters</li>
+<li>Sections for Route, Events, Reports, Analytics, Centers and Settings</li>
+</ul>
+
+**My engineering areas:** Device telemetry and status visualization, temperature and monitoring dashboards, device connectivity and status investigation, API integration and frontend data handling, troubleshooting monitoring discrepancies
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### Shaktiman – Machinery Fleet Management
+
+<img src="assets/projects/shaktiman/machines.png" alt="Shaktiman machines page listing machines with status, allocate and install device actions" width="100%" />
+<sub>Shaktiman machines page: inventory with lifecycle status and device actions. Device identifiers are blurred.</sub>
+
+**What the interface covers**
+<ul>
+<li>Machine inventory with Inventory and Delivered statuses, bulk upload and search by serial, name, vehicle number or IMEI</li>
+<li>Allocate and install-device actions on each machine</li>
+<li>Fleet modules: devices, allocation, live map, geofences, playback, production lines and firmware</li>
+<li>Management modules: users, sales, reports, alert rules and maintenance, plus a product catalogue and device catalogue</li>
+<li>Machine types shown include balers, sprayers and harvesters</li>
+</ul>
+
+**My engineering areas:** Web interface development and REST API integration
+
+</td></tr>
+</table>
+
+**Other platforms**
 
 <table>
 <tr><th>Product</th><th>Domain</th><th>Engineering areas</th></tr>
@@ -59,21 +147,6 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 <td><b>Fleet Management Platform</b></td>
 <td>Fleet monitoring</td>
 <td>Vehicle tracking interfaces, interactive dashboards, API-driven data presentation, responsive frontend development</td>
-</tr>
-<tr>
-<td><b>Compass Revamp / RevMap</b></td>
-<td>Fleet management and GPS tracking</td>
-<td>Mapping and geospatial interfaces, vehicle tracking and route visualization, fleet-related monitoring, interactive data-driven dashboards</td>
-</tr>
-<tr>
-<td><b>Cold Chain and Freezer Monitoring</b></td>
-<td>IoT-based freezer monitoring</td>
-<td>Device telemetry and status visualization, temperature and monitoring dashboards, device connectivity and status investigation, API integration and frontend data handling, troubleshooting monitoring discrepancies</td>
-</tr>
-<tr>
-<td><b>MiniMetro</b></td>
-<td>Asset tracking and vehicle management</td>
-<td>Web interface development and REST API integration</td>
 </tr>
 <tr>
 <td><b>Joy eBike Tracking Platform</b></td>
@@ -211,7 +284,6 @@ Frontend architecture, full-stack web development, scalable web applications, AP
 
 </div>
 
-<!--
-LinkedIn is not verified yet. Add it here once you have the URL:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
--->
+
+
