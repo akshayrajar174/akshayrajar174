@@ -32,6 +32,94 @@ My day-to-day focus is frontend engineering with React.js and TypeScript. My per
 - **Looking for:** Software Engineer, Frontend Developer, React Developer, Angular Developer and Full-Stack Developer roles in Australia, Europe and international remote teams
 
 ---
+## Technical Skills
+ 
+### 1. Frontend Development
+![React.js](https://img.shields.io/badge/React.js-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Material UI](https://img.shields.io/badge/Material_UI-0F172A?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0F172A?style=for-the-badge&logo=antdesign&logoColor=0170FE)
+ 
+**Additional Skills:** Responsive UI Development, Reusable Component Architecture, State Management, Redux, Dashboard Development, Data Visualization, UI Optimization.
+ 
+### 2. Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Dart](https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+ 
+### 3. Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=44B78B)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-0F172A?style=for-the-badge&logo=django&logoColor=44B78B)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
+ 
+**Additional Skills:** Backend API Integration, Authentication, Token-Based Authentication, Request/Response Handling, Server-Side Application Integration.
+ 
+### 4. Database Management
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Redis](https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D)
+ 
+**Additional Skills:** Database Integration, SQL Queries, Data Management, Relational Database Operations, Caching.
+ 
+### 5. API Development & Integration
+![REST API](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![JSON](https://img.shields.io/badge/JSON-0F172A?style=for-the-badge&logo=json&logoColor=white)
+ 
+**Additional Skills:** RESTful API Integration, HTTP Methods, API Testing, JSON Data Handling, Authentication Headers, API Debugging, Frontend–Backend Communication.
+ 
+### 6. Maps, GPS & Telematics
+![Google Maps](https://img.shields.io/badge/Google_Maps-0F172A?style=for-the-badge&logo=googlemaps&logoColor=4285F4)
+ 
+**Additional Skills:** GPS Tracking, Geospatial Data Integration, Live Vehicle Tracking, Asset Tracking, Fleet Monitoring, Location-Based Dashboards, Cold Chain Monitoring.
+ 
+### 7. Mobile Application Development
+![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=0175C2)
+ 
+**Additional Skills:** Cross-Platform Mobile Development, REST API Integration, HTTP Requests, Mobile UI Development.
+ 
+### 8. Development Tools & Version Control
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0F172A?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jira](https://img.shields.io/badge/Jira-0F172A?style=for-the-badge&logo=jira&logoColor=2684FF)
+ 
+**Additional Tools:** VS Code, Git Branching, Merge Requests, Code Reviews, Postman.
+ 
+### 9. Software Engineering & Development Practices
+ 
+- Reusable Component Development
+- Responsive Web Application Development
+- Frontend Architecture and Optimization
+- API Integration and Debugging
+- Application Performance Optimization
+- Troubleshooting and Bug Fixing
+- Testing and Quality Assurance
+- Agile / Scrum Methodology
+- Jira Task Management
+- Integration Testing and QA Handover
+- Version Control and Collaborative Development
+### 10. Professional Domain Experience
+ 
+- Fleet Management Systems
+- MiniMetro Asset Tracking
+- GPS and Vehicle Tracking Systems
+- Video Telematics
+- Cold Chain and Freezer Monitoring
+- Asset Management Systems
+- Monitoring Dashboards and Data Visualization
 
 ## 💼 Professional Engineering Experience – Transight Systems
 
@@ -154,28 +242,6 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 
 ---
 
-## Technical Skills
-
-**Professional experience (Transight Systems)**
-
-![React.js](https://img.shields.io/badge/React.js-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-Also: reusable component development, monitoring dashboards, data visualization, API integration.
-
-**Personal and academic projects (verified in repository code)**
-
-| Area | Technologies |
-|---|---|
-| Frontend | ![Angular](https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=DD0031) ![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=02569B) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6) |
-| Backend | ![Django REST Framework](https://img.shields.io/badge/Django_REST-0F172A?style=flat-square&logo=django&logoColor=44B78B) ![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=777BB4) |
-| Languages | ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB) ![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=0175C2) ![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=777BB4) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1) |
-| Databases | ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=003B57) |
-| API integration | REST APIs with token authentication (Django REST Framework), HTTP calls from Flutter |
-| Tools | ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white) |
-
----
 
 ## Personal and Academic Projects
 
