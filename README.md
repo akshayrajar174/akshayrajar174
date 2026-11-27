@@ -67,7 +67,7 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 
 ### Compass Revamp / RevMap – Fleet Management and GPS Tracking
 
-<img src="assets/projects/compass-revamp/fleet-dashboard.png" alt="Compass fleet overview with vehicle status counts, a searchable vehicle list and a map" width="100%" />
+<img src="/fleet-dashboard.png" alt="Compass fleet overview with vehicle status counts, a searchable vehicle list and a map" width="100%" />
 <sub>Compass overview: fleet status counts, vehicle list and map view. Vehicle identifiers are blurred.</sub>
 
 **What the interface covers**
@@ -88,7 +88,7 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 
 ### Cold Chain and Freezer Monitoring
 
-<img src="assets/projects/cold-chain/monitoring-dashboard.png" alt="Freezer monitoring dashboard with connection status counts and a map of freezer locations" width="100%" />
+<img src="/monitoring-dashboard.png" alt="Freezer monitoring dashboard with connection status counts and a map of freezer locations" width="100%" />
 <sub>Freezer monitoring overview: connection status counts and map. Customer name and freezer location are blurred.</sub>
 
 **What the interface covers**
@@ -109,7 +109,7 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 
 ### Shaktiman – Machinery Fleet Management
 
-<img src="assets/projects/shaktiman/machines.png" alt="Shaktiman machines page listing machines with status, allocate and install device actions" width="100%" />
+<img src="/machines.png" alt="Shaktiman machines page listing machines with status, allocate and install device actions" width="100%" />
 <sub>Shaktiman machines page: inventory with lifecycle status and device actions. Device identifiers are blurred.</sub>
 
 **What the interface covers**
