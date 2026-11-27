@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Open_to-Australia_%7C_Europe_%7C_Remote-0EA5E9?style=for-the-badge" alt="Open to opportunities in Australia, Europe and remote" />
 </p>
 
-href="https://www.linkedin.com/in/akshayrajar174"><img src="https://img.shields.io/badge/LinkedIn-akshayrajar174-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile of Akshay Raj" /></a> <a href="mailto:akshayrajar174@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshayrajar174%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email akshayrajar174@gmail.com" /></a> <a href="assets/Akshay_Raj_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-22C55E?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Akshay Raj's CV as PDF" /></a> </p> </div>
+<p> <a href="https://www.linkedin.com/in/akshayrajar174"><img src="https://img.shields.io/badge/LinkedIn-akshayrajar174-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile of Akshay Raj" /></a> <a href="mailto:akshayrajar174@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshayrajar174%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email akshayrajar174@gmail.com" /></a> <a href="assets/Akshay_Raj_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-22C55E?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Akshay Raj's CV as PDF" /></a> </p> </div>
 
 ---
 
