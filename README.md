@@ -37,7 +37,7 @@ My day-to-day focus is frontend engineering with React.js and TypeScript. My per
 - **Role:** Associate Software Engineer, Transight Systems Pvt. Ltd., since September 2024
 - **Recognition:** Rising Star Award, May 2025
 - **Looking for:** Software Engineer, Frontend Developer, React Developer, Angular Developer and Full-Stack Developer roles in Australia, Europe and international remote teams
-- **CV:** [Download PDF](assets/Akshay_Raj_CV.pdf)
+- **CV:** [Download PDF](/Akshay_Raj_CV.pdf)
 
 ---
 
