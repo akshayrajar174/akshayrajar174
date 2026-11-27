@@ -1,4 +1,3 @@
-<img width="2172" height="724" alt="Futuristic Purple Developer Portfolio Banner" src="/banner/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg" />
 
 
 <div align="center">
