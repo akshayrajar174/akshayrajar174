@@ -1,8 +1,5 @@
 <img width="2172" height="724" alt="Futuristic Purple Developer Portfolio Banner" src="https://github.com/user-attachments/assets/970a942b-8523-4b22-be33-55f731468a65" />
-Maintainer notes (not shown on GitHub):
-- Product names and screenshots under "Professional Engineering Experience" belong to your employer. Confirm approval before committing them. Identifiers in the screenshots are blurred.
-- The Asset Management System is not listed because it is not confirmed as a separate product. See MISSING_INFORMATION.md.
--->
+
 
 <div align="center">
 
