@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Open_to-Australia_%7C_Europe_%7C_Remote-0EA5E9?style=for-the-badge" alt="Open to opportunities in Australia, Europe and remote" />
 </p>
 
-</div>
+href="https://www.linkedin.com/in/akshayrajar174"><img src="https://img.shields.io/badge/LinkedIn-akshayrajar174-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile of Akshay Raj" /></a> <a href="mailto:akshayrajar174@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshayrajar174%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email akshayrajar174@gmail.com" /></a> <a href="assets/Akshay_Raj_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-22C55E?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Akshay Raj's CV as PDF" /></a> </p> </div>
 
 ---
 
@@ -23,9 +23,10 @@ I am a software engineer who builds web applications for connected-device platfo
 
 My day-to-day focus is frontend engineering with React.js and TypeScript. My personal and academic projects add Angular, Flutter, Django REST Framework and PHP, so I understand how a full application fits together: interface, API, database and workflow rules.
 
-- **Role:** Associate Software Engineer, Transight Systems Pvt. Ltd., since September 2024
-- **Recognition:** Rising Star Award, May 2025
-- **Looking for:** Software Engineer, Frontend Developer, React Developer, Angular Developer and Full-Stack Developer roles in Australia, Europe and international remote teams
+Role: Associate Software Engineer, Transight Systems Pvt. Ltd., since September 2024
+Recognition: Rising Star Award, May 2025
+Looking for: Software Engineer, Frontend Developer, React Developer, Angular Developer and Full-Stack Developer roles in Australia, Europe and international remote teams
+CV: Download PDF
 
 ---
 ## Technical Skills
@@ -335,15 +336,4 @@ Frontend architecture, full-stack web development, scalable web applications, AP
 
 ## Connect
 
-<div align="center">
-
-<a href="https://github.com/akshayrajar174">
-  <img src="https://img.shields.io/badge/GitHub-akshayrajar174-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile of akshayrajar174" />
-</a>
-
-</div>
-
-<!--
-LinkedIn is not verified yet. Add it here once you have the URL:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
--->
+<div align="center"> <a href="https://www.linkedin.com/in/akshayrajar174"> <img src="https://img.shields.io/badge/LinkedIn-akshayrajar174-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Akshay Raj" /> </a> <a href="mailto:akshayrajar174@gmail.com"> <img src="https://img.shields.io/badge/Gmail-akshayrajar174%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email akshayrajar174@gmail.com" /> </a> <a href="https://github.com/akshayrajar174"> <img src="https://img.shields.io/badge/GitHub-akshayrajar174-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile of akshayrajar174" /> </a> <a href="assets/Akshay_Raj_CV.pdf"> <img src="https://img.shields.io/badge/CV-Download_PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Akshay Raj's CV as PDF" /> </a> </div>
