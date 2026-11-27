@@ -46,7 +46,7 @@ I build and maintain web interfaces for enterprise IoT and telematics products: 
 
 ### MiniMetro – Asset Tracking and Vehicle Management
 
-<img src="assets/projects/minimetro/dashboard.png" alt="MiniMetro overview dashboard showing vehicle status counts, search filters and online and activity status charts" width="100%" />
+<img src="dashboard.png" alt="MiniMetro overview dashboard showing vehicle status counts, search filters and online and activity status charts" width="100%" />
 <sub>MiniMetro overview: vehicle status counts, hierarchy filters and connectivity charts.</sub>
 
 **What the interface covers**
