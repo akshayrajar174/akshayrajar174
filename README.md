@@ -9,7 +9,7 @@ Maintainer notes (not shown on GitHub):
 <h1>Akshay Raj</h1>
 
 <a href="https://github.com/akshayrajar174">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Associate+Software+Engineer;Full-Stack+%26+Frontend+Developer;React+%7C+Angular+%7C+TypeScript;IoT+%7C+Telematics+%7C+Fleet+%7C+Cold+Chain" alt="Associate Software Engineer. Full-Stack and Frontend Developer. React, Angular, TypeScript. IoT, Telematics, Fleet, Cold Chain." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Associate+Software+Engineer;Full-Stack+%26+Frontend+Developer;React+%7C+Angular+%7C+TypeScript;IoT+%7C+Telematics alt="Associate Software Engineer. Full-Stack and Frontend Developer. React, Angular, TypeScript. IoT, Telematics, Fleet." />
 </a>
 
 <p>
